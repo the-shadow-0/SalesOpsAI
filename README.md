@@ -76,3 +76,11 @@ Navigate to `http://localhost:3000` to view the application UI. The terminal wil
 - **Backend Orchestrator**: Node.js Event Bus (`EventEmitter` simulation), TypeScript
 - **AI Engine**: Local LLM Orchestration via `ollama` Node SDK
 - **Testing**: End-to-End backend pipeline tests (`test-workflow.ts`), Playwright UI UI/UX extraction.
+
+---
+
+⚖️ License
+
+This project is licensed under the MIT License © 2026 Noureddine (the-shadow-0). 📜
+
+---
