@@ -58,8 +58,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed, and [Ollama](https://o
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/salesopsai.git
-cd salesopsai
+git clone https://github.com/the-shadow-0/SalesOpsAI
+cd SalesOpsAI
 
 # Install Frontend dependencies
 cd frontend && npm install
