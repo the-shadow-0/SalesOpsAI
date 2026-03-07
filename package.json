@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "concurrently": "^9.2.1",
+    "playwright": "^1.58.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ollama": "^0.6.3"
+  },
+  "name": "salesopsai",
+  "version": "1.0.0",
+  "description": "SalesOpsAI is a comprehensive platform automating B2B revenue team workflows. It features a Next.js frontend, a serverless API layer, and a multi-agent backend utilizing Ollama and an Orchestrator.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "start": "npm run start --prefix frontend",
+    "test:workflow": "tsx scripts/test-workflow.ts",
+    "dev:all": "concurrently \"npm run dev --prefix frontend\" \"npm run test:workflow\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
