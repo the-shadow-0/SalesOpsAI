@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://img.shields.io/badge/Agentic_AI-Next.js_14-blue?style=for-the-badge&logo=next.js" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/Ollama-Local_LLM-purple?style=for-the-badge" alt="Local LLM" />
   <img src="https://img.shields.io/badge/Node.js-Event_Bus-green?style=for-the-badge&logo=nodedotjs" alt="Node Event Bus" />
