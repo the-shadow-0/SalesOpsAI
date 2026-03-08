@@ -5,7 +5,7 @@
   </h1>
   <p align="center"><strong>The Multi-Agent AI Platform for B2B Revenue Teams</strong></p>
   
-  <br/> 
+  <br/>  
   <img src="https://img.shields.io/badge/Agentic_AI-Next.js_14-blue?style=for-the-badge&logo=next.js" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/Ollama-Local_LLM-purple?style=for-the-badge" alt="Local LLM" />
   <img src="https://img.shields.io/badge/Node.js-Event_Bus-green?style=for-the-badge&logo=nodedotjs" alt="Node Event Bus" />
