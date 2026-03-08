@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Ollama-Local_LLM-purple?style=for-the-badge" alt="Local LLM" />
   <img src="https://img.shields.io/badge/Node.js-Event_Bus-green?style=for-the-badge&logo=nodedotjs" alt="Node Event Bus" />
   
-  <br/>
+  <br/> 
   
   <h1 align="center">
      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/flame.svg" width="32" height="32" style="vertical-align: middle; margin-right: 8px;" />
