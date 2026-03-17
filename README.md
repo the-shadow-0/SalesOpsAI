@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 <h1 align="center">
      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/flame.svg" width="32" height="32" style="vertical-align: middle; margin-right: 8px;" />
      SalesOpsAI 🤖💼
